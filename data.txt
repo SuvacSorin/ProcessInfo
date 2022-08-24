@@ -1,0 +1,12 @@
+{"cpu_usage": 0.0, "memory_consumption": {"memory_rss": 679936, "memory_vms": 6946816}, "file_descriptors": 3}
+{"cpu_usage": 104.8, "memory_consumption": {"memory_rss": 271159296, "memory_vms": 2852691968}, "file_descriptors": 82}
+{"cpu_usage": 61.8, "memory_consumption": {"memory_rss": 291069952, "memory_vms": 2908524544}, "file_descriptors": 100}
+{"cpu_usage": 116.8, "memory_consumption": {"memory_rss": 386322432, "memory_vms": 3307581440}, "file_descriptors": 157}
+{"cpu_usage": 112.8, "memory_consumption": {"memory_rss": 402776064, "memory_vms": 3327688704}, "file_descriptors": 157}
+{"cpu_usage": 68.9, "memory_consumption": {"memory_rss": 360980480, "memory_vms": 3376955392}, "file_descriptors": 156}
+{"cpu_usage": 12.0, "memory_consumption": {"memory_rss": 346664960, "memory_vms": 3376955392}, "file_descriptors": 155}
+{"cpu_usage": 1.0, "memory_consumption": {"memory_rss": 346664960, "memory_vms": 3376955392}, "file_descriptors": 156}
+{"cpu_usage": 1.0, "memory_consumption": {"memory_rss": 346824704, "memory_vms": 3376955392}, "file_descriptors": 155}
+{"cpu_usage": 3.0, "memory_consumption": {"memory_rss": 346914816, "memory_vms": 3376955392}, "file_descriptors": 155}
+{"cpu_usage": 31.0, "memory_consumption": {"memory_rss": 348024832, "memory_vms": 3376955392}, "file_descriptors": 155}
+{"cpu_usage": 33.9, "memory_consumption": {"memory_rss": 329441280, "memory_vms": 3289640960}, "file_descriptors": 95}
